@@ -64,7 +64,7 @@ Since this project is not deployed yet, you can currently run it locally:
 To run this project locally:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/spaithane9172/Aakar-Infra-Services-Clone.git
 cd aakar-infra-clone
 npm install
 npm run dev
