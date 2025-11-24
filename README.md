@@ -10,9 +10,6 @@ It includes structured sections such as **Home, Services, Projects, About, Why C
 
 Since this project is not deployed yet, you can currently run it locally:
 
-
-
-
 ---
 
 ## ✨ Features
@@ -28,13 +25,13 @@ Since this project is not deployed yet, you can currently run it locally:
 
 ## 🛠️ Tech Stack
 
-| Technology | Usage |
-|-----------|--------|
-| **Next.js** | Routing, rendering & build system |
-| **React** | Component structure |
-| **Tailwind CSS** | Styling & layout |
-| **Framer Motion** | Entry animations & interactions |
-| **React Icons** | Icons for UI clarity |
+| Technology        | Usage                             |
+| ----------------- | --------------------------------- |
+| **Next.js**       | Routing, rendering & build system |
+| **React**         | Component structure               |
+| **Tailwind CSS**  | Styling & layout                  |
+| **Framer Motion** | Entry animations & interactions   |
+| **React Icons**   | Icons for UI clarity              |
 
 ---
 
@@ -52,9 +49,11 @@ Since this project is not deployed yet, you can currently run it locally:
 ## 📸 Screenshots
 
 ### 🏠 Homepage (Desktop)
+
 ![Aakar Infra — Homepage (Desktop)](./screenshot/home.png)
 
 ### 📱 Homepage (Mobile)
+
 ![Aakar Infra — Homepage (Mobile)](./screenshot/mobilehome.png)
 
 ---
@@ -68,3 +67,4 @@ git clone https://github.com/spaithane9172/Aakar-Infra-Services-Clone.git
 cd aakar-infra-clone
 npm install
 npm run dev
+```
